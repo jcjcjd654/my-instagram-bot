@@ -1,0 +1,3 @@
+# Elenco delle librerie Python necessarie per il bot Instagram
+instagram-private-api==1.11.0
+openai==0.10.3
